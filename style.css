@@ -1,0 +1,10 @@
+body {
+    font-family: "Javanese Text";
+    color: #001f6a;
+}
+#weather {
+    text-align: center;
+    border-style: dotted;
+    border-width: 10px;
+    background: #8cfff3;
+}
